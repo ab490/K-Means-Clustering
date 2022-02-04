@@ -1,5 +1,5 @@
 # K-Means-Clustering
-Performed classification using k-means clustering for:
+Performed classification using k-means clustering in python for:
 1) Linearly separable data
 2) Non-linearly separable data
 
